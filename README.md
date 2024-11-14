@@ -5,5 +5,5 @@
  while building a strong foundation in programming and computer science.
 
  Tech Stack:
- Languages: C++ (intermediate), C (studying)
- Web Development Experience: HTML, CSS, JavaScrip
+ 🛠️Languages: C++ (intermediate),C (studying)
+ 🌐Web Development Experience: HTML, CSS, JavaScrip
